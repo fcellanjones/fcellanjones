@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesca</h1>
-<h3 align="center">A developer from the UK</h3>
+<h3 align="center">A developer from the UK. I've just finished an intensive 9 week bootcamp at Le Wagon and now I'm learning React.</h3>
 
 - 📫 How to reach me **f.cellanjones@gmail.com**
 
